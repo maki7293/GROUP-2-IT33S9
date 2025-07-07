@@ -7,3 +7,10 @@ Files Included:
 3. R Code for Chapter 4 (EDA)
 4. R Code for Shiny Dashboard
 5. Cleaned Dataset (CSV File)
+
+Guide for running the dashboard:
+1. Download the ZIP of this repository and extract it.
+2. Open RStudio, then go to File > Open Project or open the main .R file inside the extracted folder.
+3. Install required packages.
+4. Make sure Students_Cleaned_Data.csv is in the project folder.
+5. Click the "Run App" button in RStudio (top right of the script pane).
